@@ -1,0 +1,90 @@
+Cairo, Egypt                 |                            Lagos, Nigeria               |                               463
+Lagos, Nigeria               |                            Nairobi, Kenya               |                               526
+Nairobi, Kenya               |                            Johannesburg, South Africa   |                               561
+Johannesburg, South Africa   |                            Casablanca, Morocco          |                               463
+Casablanca, Morocco          |                            Addis Ababa, Ethiopia        |                               513
+Addis Ababa, Ethiopia        |                            Accra, Ghana                 |                               597
+Accra, Ghana                 |                            Dakar, Senegal               |                               545
+Dakar, Senegal               |                            Tunis, Tunisia               |                               578
+Tunis, Tunisia               |                            Marrakech, Morocco           |                               465
+Marrakech, Morocco           |                            Cairo, Egypt                 |                               658
+Cairo, Egypt                 |                            Nairobi, Kenya               |                               475
+Lagos, Nigeria               |                            Johannesburg, South Africa   |                               482
+Nairobi, Kenya               |                            Casablanca, Morocco          |                               542
+Johannesburg, South Africa   |                            Addis Ababa, Ethiopia        |                               588
+Casablanca, Morocco          |                            Accra, Ghana                 |                               510
+Addis Ababa, Ethiopia        |                            Dakar, Senegal               |                               575
+Accra, Ghana                 |                            Tunis, Tunisia               |                               463
+Dakar, Senegal               |                            Marrakech, Morocco           |                               528
+Tunis, Tunisia               |                            Cairo, Egypt                 |                               560
+Marrakech, Morocco           |                            Lagos, Nigeria               |                               561
+Cairo, Egypt                 |                            Johannesburg, South Africa   |                               623
+Lagos, Nigeria               |                            Casablanca, Morocco          |                               544
+Nairobi, Kenya               |                            Addis Ababa, Ethiopia        |                               479
+Johannesburg, South Africa   |                            Accra, Ghana                 |                               397
+Casablanca, Morocco          |                            Dakar, Senegal               |                               439
+Addis Ababa, Ethiopia        |                            Tunis, Tunisia               |                               482
+Accra, Ghana                 |                            Marrakech, Morocco           |                               479
+Dakar, Senegal               |                            Cairo, Egypt                 |                               521
+Tunis, Tunisia               |                            Lagos, Nigeria               |                               566
+Marrakech, Morocco           |                            Nairobi, Kenya               |                               503
+Cairo, Egypt                 |                            Casablanca, Morocco          |                               501
+Lagos, Nigeria               |                            Addis Ababa, Ethiopia        |                               524
+Nairobi, Kenya               |                            Accra, Ghana                 |                               606
+Johannesburg, South Africa   |                            Dakar, Senegal               |                               552
+Casablanca, Morocco          |                            Tunis, Tunisia               |                               574
+Addis Ababa, Ethiopia        |                            Marrakech, Morocco           |                               484
+Accra, Ghana                 |                            Cairo, Egypt                 |                               527
+Dakar, Senegal               |                            Lagos, Nigeria               |                               484
+Tunis, Tunisia               |                            Nairobi, Kenya               |                               557
+Marrakech, Morocco           |                            Johannesburg, South Africa   |                               589
+Cairo, Egypt                 |                            Addis Ababa, Ethiopia        |                               491
+Lagos, Nigeria               |                            Accra, Ghana                 |                               438
+Nairobi, Kenya               |                            Dakar, Senegal               |                               486
+Johannesburg, South Africa   |                            Tunis, Tunisia               |                               554
+Casablanca, Morocco          |                            Marrakech, Morocco           |                               463
+Addis Ababa, Ethiopia        |                            Cairo, Egypt                 |                               641
+Accra, Ghana                 |                            Lagos, Nigeria               |                               387
+Dakar, Senegal               |                            Nairobi, Kenya               |                               529
+Tunis, Tunisia               |                            Johannesburg, South Africa   |                               577
+Marrakech, Morocco           |                            Casablanca, Morocco          |                               484
+Cairo, Egypt                 |                            Accra, Ghana                 |                               553
+Lagos, Nigeria               |                            Dakar, Senegal               |                               615
+Nairobi, Kenya               |                            Tunis, Tunisia               |                               544
+Johannesburg, South Africa   |                            Marrakech, Morocco           |                               411
+Casablanca, Morocco          |                            Cairo, Egypt                 |                               592
+Addis Ababa, Ethiopia        |                            Lagos, Nigeria               |                               503
+Accra, Ghana                 |                            Nairobi, Kenya               |                               510
+Dakar, Senegal               |                            Johannesburg, South Africa   |                               540
+Tunis, Tunisia               |                            Casablanca, Morocco          |                               440
+Marrakech, Morocco           |                            Addis Ababa, Ethiopia        |                               345
+Cairo, Egypt                 |                            Dakar, Senegal               |                               482
+Lagos, Nigeria               |                            Tunis, Tunisia               |                               448
+Nairobi, Kenya               |                            Marrakech, Morocco           |                               448
+Johannesburg, South Africa   |                            Cairo, Egypt                 |                               444
+Casablanca, Morocco          |                            Lagos, Nigeria               |                               531
+Addis Ababa, Ethiopia        |                            Nairobi, Kenya               |                               564
+Accra, Ghana                 |                            Johannesburg, South Africa   |                               524
+Dakar, Senegal               |                            Casablanca, Morocco          |                               622
+Tunis, Tunisia               |                            Addis Ababa, Ethiopia        |                               522
+Marrakech, Morocco           |                            Accra, Ghana                 |                               447
+Cairo, Egypt                 |                            Tunis, Tunisia               |                               563
+Lagos, Nigeria               |                            Marrakech, Morocco           |                               535
+Nairobi, Kenya               |                            Cairo, Egypt                 |                               419
+Johannesburg, South Africa   |                            Lagos, Nigeria               |                               482
+Casablanca, Morocco          |                            Nairobi, Kenya               |                               648
+Addis Ababa, Ethiopia        |                            Johannesburg, South Africa   |                               442
+Accra, Ghana                 |                            Casablanca, Morocco          |                               524
+Dakar, Senegal               |                            Addis Ababa, Ethiopia        |                               431
+Tunis, Tunisia               |                            Accra, Ghana                 |                               587
+Marrakech, Morocco           |                            Dakar, Senegal               |                               532
+Cairo, Egypt                 |                            Marrakech, Morocco           |                               510
+Lagos, Nigeria               |                            Cairo, Egypt                 |                               415
+Nairobi, Kenya               |                            Lagos, Nigeria               |                               543
+Johannesburg, South Africa   |                            Nairobi, Kenya               |                               473
+Casablanca, Morocco          |                            Johannesburg, South Africa   |                               566
+Addis Ababa, Ethiopia        |                            Casablanca, Morocco          |                               462
+Accra, Ghana                 |                            Addis Ababa, Ethiopia        |                               439
+Dakar, Senegal               |                            Accra, Ghana                 |                               531
+Tunis, Tunisia               |                            Dakar, Senegal               |                               464
+Marrakech, Morocco           |                            Tunis, Tunisia               |                               424

@@ -1,0 +1,6 @@
+https://www.example.com
+www.google.com
+https://www.quantic.edu
+https://www.yahoo.com
+https://www.domainisnotup.com
+www.bing.com

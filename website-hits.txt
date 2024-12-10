@@ -1,0 +1,18 @@
+Tokyo, Japan: 362
+Shanghai, China: 4381
+Beijing, China: 910
+Seoul, South Korea: 5623
+Bangkok, Thailand: 789
+Singapore, Singapore: 1003
+Taipei, Taiwan: 2112
+Manila, Philippines: 867
+Jakarta, Indonesia: 5309
+Hanoi, Vietnam: 165
+Hong Kong, Hong Kong: 1773
+Kathmandu, Nepal: 614
+Ulaanbaatar, Mongolia: 933
+Vientiane, Laos: 1004
+Phnom Penh, Cambodia: 2805
+Naypyidaw, Myanmar: 230
+Dili, Timor-Leste: 893
+Bandar Seri Begawan, Brunei: 645

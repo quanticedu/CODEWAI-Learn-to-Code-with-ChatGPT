@@ -1,0 +1,10 @@
+Private Sub Form_Load()
+    Dim myReg As RegExp
+    Dim email As String
+    Set myReg = New RegExp
+    myReg.IgnoreCase = True
+    myReg.Pattern = "^[\w+\.]+@\w+\.\w+$"
+'replace "myemail@hotmail.com" with the email address you want to check.
+    email = "myemail@hotmail.com"
+    MsgBox "the result of validation checking: " & myReg.Test(email)
+End Sub
